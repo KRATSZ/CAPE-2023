@@ -13,9 +13,10 @@ The goal of this competition is to predict how mutations in specific amino acids
     <img src="https://github.com/KRATSZ/CAPE-2023/assets/59955777/74e902e6-a3e5-47a4-b694-4aa489de18d2" alt="描述文字" width="500"/>
 </div>
 
-
-
-
-
-
 However, Current experimental methods are slow, but **automated synthetic biology** can rapidly test mutations.It can quickly achieve specific functions through low-cost, multi-cycle large-scale engineering trial and error experiments. Based on a robotic platform facility, the automated construction and testing of RhlA's unit point saturation mutations and multi-site combinatorial mutation libraries have been realized.
+
+### Quick links
+
+* 📖 [Kaggle competition website](https://www.kaggle.com/competitions/siatprotein2023)
+* 📖 [The solution from different team](https://www.kaggle.com/competitions/siatprotein2023/code)
+* 📖 [Some of our previous work and the origin of part of the dataset](https://academic.oup.com/bib/article/24/1/bbac570/6958505)
