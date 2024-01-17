@@ -9,6 +9,13 @@ Official Repository for Critical Assessment of Protein Engineering(CAPE)
 ## Overview
 The goal of this competition is to predict how mutations in specific amino acids affect enzyme function, focusing on RhlA, a key enzyme in producing rhamnolipids—a promising biosurfactant with applications across various industries. Rhamnolipids are hindered by high production and separation costs due to their structural homologues.Enhancing RhlA's selectivity could streamline production and reduce costs. 
 
+<div align="center">
+    <img src="https://github.com/KRATSZ/CAPE-2023/assets/59955777/74e902e6-a3e5-47a4-b694-4aa489de18d2" alt="描述文字" width="500"/>
+</div>
+
+
+
+
 
 
 However, Current experimental methods are slow, but **automated synthetic biology** can rapidly test mutations.It can quickly achieve specific functions through low-cost, multi-cycle large-scale engineering trial and error experiments. Based on a robotic platform facility, the automated construction and testing of RhlA's unit point saturation mutations and multi-site combinatorial mutation libraries have been realized.
