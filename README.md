@@ -38,12 +38,12 @@ Prediction and Feedback: To fully understand the performance of the model, parti
 ## Useful resources
 💯 Although we have provided a sequence training set and test set, participants can also **use many other resources** for training to improve the final results. We believe the following resources are of high quality, and may consider using them to enhance the effectiveness of the model:
 
-- 1. *UniProtKB*: This is a primary resource for protein function annotation. It contains sequences and many links to other databases.
-- 2. *Gene Ontology (GO)*: This database is for enzyme function ontology. It also contains some annotations of protein-gene functions.
-- 3. *Protein Data Bank (PDB)*: A database of protein structures.
-- 4. *STRING*: A website for studying protein interactions.
-- 5. *GEO*: A database website for gene expression data.
-- 6. *PRIDE*: A database of proteins identified through mass spectrometry experiments.
+1. *UniProtKB*: This is a primary resource for protein function annotation. It contains sequences and many links to other databases.
+2. *Gene Ontology (GO)*: This database is for enzyme function ontology. It also contains some annotations of protein-gene functions.
+3. *Protein Data Bank (PDB)*: A database of protein structures.
+4. *STRING*: A website for studying protein interactions.
+5. *GEO*: A database website for gene expression data.
+6. *PRIDE*: A database of proteins identified through mass spectrometry experiments.
 
 The page at https://en.wikipedia.org/wiki/Rhamnolipid provides detailed information about rhamnolipids, including their chemical structure and biosynthetic pathways.
 
