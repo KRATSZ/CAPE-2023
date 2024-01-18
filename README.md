@@ -22,7 +22,6 @@ However, Current experimental methods are slow, but **automated synthetic biolog
 * 📖 [Some of our previous work and the origin of part of the dataset](https://academic.oup.com/bib/article/24/1/bbac570/6958505)
 
 ## Dataset
-<a href="https://www.kaggle.com/competitions/siatprotein2023/data"><img src="https://img.shields.io/badge/Kaggle-Dataset-%2355555)"></a>
 ### Introduction to "training.csv" (Training Dataset)
 
 This is the training data for the competition, in CSV format, containing a total of 1593 sequences.
