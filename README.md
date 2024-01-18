@@ -34,3 +34,19 @@ The last two columns are enzyme function evaluation indicators, including (1) No
 Here are 925 new pieces of data. They contain sequence information but do not include corresponding activity and selectivity. The participant need to predict the activity and selectivity associated with these sequences and obtain feedback to know the overall predictive capability of participant's model.
 
 Prediction and Feedback: To fully understand the performance of the model, participants need to use their algorithms to predict the enzyme activity and selectivity corresponding to the sequences in "test.csv." At the same time, participants can submit their predictions for "test.csv" on Kaggle to receive feedback on their models.
+
+## Useful resources
+💯 Although we have provided a sequence training set and test set, participants can also **use many other resources** for training to improve the final results. We believe the following resources are of high quality, and may consider using them to enhance the effectiveness of the model:
+
+- 1. *UniProtKB*: This is a primary resource for protein function annotation. It contains sequences and many links to other databases.
+- 2. *Gene Ontology (GO)*: This database is for enzyme function ontology. It also contains some annotations of protein-gene functions.
+- 3. *Protein Data Bank (PDB)*: A database of protein structures.
+- 4. *STRING*: A website for studying protein interactions.
+- 5. *GEO*: A database website for gene expression data.
+- 6. *PRIDE*: A database of proteins identified through mass spectrometry experiments.
+
+The page at https://en.wikipedia.org/wiki/Rhamnolipid provides detailed information about rhamnolipids, including their chemical structure and biosynthetic pathways.
+
+The article at https://www.pnas.org/doi/10.1073/pnas.2101366118 mentions that HAAs (3-hydroxyacyl-ACP) are synthesized in Pseudomonas aeruginosa by the enzyme RhlA through the dimerization of (R)-3-hydroxyacyl-CoA.
+
+The article at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7054101/ discusses the diversity of the RhlA enzyme and how this diversity can be exploited to synthesize different rhamnolipids.
