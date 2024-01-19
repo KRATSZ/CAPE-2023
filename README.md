@@ -35,6 +35,9 @@ Here are 925 new pieces of data. They contain sequence information but do not in
 
 Prediction and Feedback: To fully understand the performance of the model, participants need to use their algorithms to predict the enzyme activity and selectivity corresponding to the sequences in "test.csv." At the same time, participants can submit their predictions for "test.csv" on Kaggle to receive feedback on their models.
 
+![image](https://github.com/KRATSZ/CAPE-2023/assets/59955777/8c20be3b-fb45-4b4f-b3ac-045391f2fe54)
+
+
 ## Useful resources
 💯 Although we have provided a sequence training set and test set, participants can also **use many other resources** for training to improve the final results. We believe the following resources are of high quality, and may consider using them to enhance the effectiveness of the model:
 
