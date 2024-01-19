@@ -21,6 +21,8 @@ Round 1 was organized as synbio Challenges, as part of the synbio Challenges com
 The Protein Design PLUS Competition, hosted on the Shenzhen Synthetic Biology Research Infrastructure's cloud platform and Kaggle, aims to foster cross-disciplinary student engagement in AI-driven protein design. Building on the inaugural SC Protein Design Competition, it continues to concentrate on machine learning for enzyme engineering, targeting the eco-friendly production of biosurfactants. 
 
 Contestants accessed a dataset of the enzyme RhlA on Kaggle, refining their predictive models through feedback from a hidden validation set. Teams then designed sequences that were tested at the Big Facility, with rankings based on experimental outcomes.
+![image (1)](https://github.com/KRATSZ/CAPE-2023/assets/59955777/644be513-c701-4f59-a657-2645d457985a)
+
 ### Goal
 We provide information about protein structure and function, including all amino acid sequences, 6 candidate mutation sites, target performance and performance measurements to be optimized, and thousands of sequence-performance data. Contestants *selected 96 mutation sequences* from the mutation design space of 20^6 and submitted them to the competition, and all the participating sequences were constructed and measured by the Synthetic Biology Facility 
 
