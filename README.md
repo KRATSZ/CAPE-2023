@@ -30,7 +30,8 @@ We provide information about protein structure and function, including all amino
 This is the training data for the competition, in CSV format, containing a total of 1593 sequences.
 The first column is called "Sequence," corresponding to combinations of different mutation sites. A combination of six letters represents the mutations at six sites, which are the amino acids at positions 74, 101, 143, 148, 173, and 176. These positions have been identified as the most effective mutation sites in our actual tests.
 The last two columns are enzyme function evaluation indicators, including (1) Normalized Activity: the total yield of enzyme catalytic activity for Rhla-C20 and Rhla-C18. (2) Normalized Selectivity: the selectivity of the enzyme, which is the ratio of Rhla-C18 to the total yield.
-![image](https://github.com/KRATSZ/CAPE-2023/assets/59955777/c0403a4f-2452-4d3b-be98-cd53a36de529)
+![image](https://github.com/KRATSZ/CAPE-2023/assets/59955777/a5c58263-7287-43ca-a98f-fb6aa8bdd34f)
+
 
 ### Introduction to "test.csv" (Test Dataset)
 
@@ -56,7 +57,6 @@ The page at https://en.wikipedia.org/wiki/Rhamnolipid provides detailed informat
 The article at https://www.pnas.org/doi/10.1073/pnas.2101366118 mentions that HAAs (3-hydroxyacyl-ACP) are synthesized in Pseudomonas aeruginosa by the enzyme RhlA through the dimerization of (R)-3-hydroxyacyl-CoA.
 
 The article at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7054101/ discusses the diversity of the RhlA enzyme and how this diversity can be exploited to synthesize different rhamnolipids.
-
 
 ## Organizers
 This Data Challenge was built in the open, with the goal of adding lasting artifacts to the community. CAPE hope be a collaboration between industry and academia, who joined forces to make it happen:
