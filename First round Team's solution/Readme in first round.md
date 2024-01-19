@@ -1,8 +1,13 @@
-介绍：
-第二届合成生物学竞赛-创新赛打破常规，创新比赛方式，拟分三个平行板块：常规赛、大设施赛-细菌博弈、大设施赛-蛋白设计。参赛队伍根据自身实际情况自由选择参加以上一项或多项。
-竞赛鼓励对合成生物学有热情的在校大学生以及在读硕士研究生从兴趣出发，探索合成生物学在不同领域的创新和应用，同时为青年学生提供一个与顶尖学者面对面交流学习、展现自身创新力的创智、创造平台！
+# Introduce
+## The synbio challenges
+The 2nd Synthetic Biology Competition-Innovation Competition breaks the routine and innovates the way of competition, which is proposed to be divided into three parallel segments: the routine competition, the big facility competition-bacterial gaming, and the big facility competition-protein design. Participating teams are free to choose to participate in one or more of the above according to their actual situation.
+The competition encourages undergraduates and graduate students who are passionate about synthetic biology to explore the innovation and application of synthetic biology in different fields from the perspective of their interests, and at the same time, it provides a platform for young students to communicate and learn from the top scholars face-to-face and to show their own creativity and creativity!
 ![image](https://github.com/KRATSZ/CAPE-2023/assets/59955777/6a96cbe7-4acb-4f40-a72a-39b5629e7813)
-第1轮是以synbio Challenges形式举办的，作为synbio Challenges比赛的一环，选手对突变进行构建并预测96条最优序列提交。邀请选手进行线下PPT展示和算法讲解，最后评出效果最优的队伍。
-在本轮次比赛中，来自南京大学的“**m-RNA**”队和来自华中科技大学的“**Hust_Chem**”队获得蛋白设计赛大奖
+
+## The Round1 
+Round 1 was organized as synbio Challenges, as part of the synbio Challenges competition, players constructed and predicted 96 optimal sequences for mutations to submit. Players were invited to give offline PPT presentations and algorithm explanations, and the team with the best results was finally evaluated.
+
+## The champion
+In this round, team "**m-RNA**" from Nanjing University and team "**Hust_Chem**" from Huazhong University of Science and Technology won the Grand Prize of Protein Design Competition.The champion team"**m-RNA**"code are abled to find in the kaggle:https://www.kaggle.com/code/littlejian/coarse-grained-scan-gan
 ![image](https://github.com/KRATSZ/CAPE-2023/assets/59955777/b24a641c-95c8-49f7-a80d-8b181c17d7df)
 
