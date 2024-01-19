@@ -15,7 +15,7 @@ The goal of this competition is to predict how mutations in specific amino acids
 
 However, Current experimental methods are slow, but **automated synthetic biology** can rapidly test mutations.It can quickly achieve specific functions through low-cost, multi-cycle large-scale engineering trial and error experiments. Based on a robotic platform facility, the automated construction and testing of RhlA's unit point saturation mutations and multi-site combinatorial mutation libraries have been realized.
 
-## Goal
+### Goal
 We provide information about protein structure and function, including all amino acid sequences, 6 candidate mutation sites, target performance and performance measurements to be optimized, and thousands of sequence-performance data. Contestants *selected 96 mutation sequences* from the mutation design space of 20^6 and submitted them to the competition, and all the participating sequences were constructed and measured by the Synthetic Biology Facility 
 
 ### Quick links
