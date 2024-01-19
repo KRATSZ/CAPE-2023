@@ -53,3 +53,12 @@ The page at https://en.wikipedia.org/wiki/Rhamnolipid provides detailed informat
 The article at https://www.pnas.org/doi/10.1073/pnas.2101366118 mentions that HAAs (3-hydroxyacyl-ACP) are synthesized in Pseudomonas aeruginosa by the enzyme RhlA through the dimerization of (R)-3-hydroxyacyl-CoA.
 
 The article at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7054101/ discusses the diversity of the RhlA enzyme and how this diversity can be exploited to synthesize different rhamnolipids.
+
+
+## Organizers
+This Data Challenge was built in the open, with the goal of adding lasting artifacts to the community. CAPE hope be a collaboration between industry and academia, who joined forces to make it happen:
+
+* [Shenzhen Institute of Advanced Technology(SIAT)](https://www.siat.ac.cn/)，Chinese Academy of Sciences
+* [Shenzhen Institute of Synthetic Biology large facility](https://www.linkedin.com/in/gabrielspmoreira/), SIAT
+* [Sitong](https://isynbio.siat.ac.cn/sitonglab/), SIAT
+* [Yixiao](http://www.isynbio.org/team-detail.aspx?detail=2610&parm=1671), SIAT
