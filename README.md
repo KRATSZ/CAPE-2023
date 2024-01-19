@@ -14,7 +14,13 @@ The goal of this competition is to predict how mutations in specific amino acids
 </div>
 
 However, Current experimental methods are slow, but **automated synthetic biology** can rapidly test mutations.It can quickly achieve specific functions through low-cost, multi-cycle large-scale engineering trial and error experiments. Based on a robotic platform facility, the automated construction and testing of RhlA's unit point saturation mutations and multi-site combinatorial mutation libraries have been realized.
+### The Round1 
+Round 1 was organized as synbio Challenges, as part of the synbio Challenges competition, players constructed and predicted 96 optimal sequences for mutations to submit. Players were invited to give offline PPT presentations and algorithm explanations, and the team with the best results was finally evaluated.
 
+### The Round2
+The Protein Design PLUS Competition, hosted on the Shenzhen Synthetic Biology Research Infrastructure's cloud platform and Kaggle, aims to foster cross-disciplinary student engagement in AI-driven protein design. Building on the inaugural SC Protein Design Competition, it continues to concentrate on machine learning for enzyme engineering, targeting the eco-friendly production of biosurfactants. 
+
+Contestants accessed a dataset of the enzyme RhlA on Kaggle, refining their predictive models through feedback from a hidden validation set. Teams then designed sequences that were tested at the Big Facility, with rankings based on experimental outcomes.
 ### Goal
 We provide information about protein structure and function, including all amino acid sequences, 6 candidate mutation sites, target performance and performance measurements to be optimized, and thousands of sequence-performance data. Contestants *selected 96 mutation sequences* from the mutation design space of 20^6 and submitted them to the competition, and all the participating sequences were constructed and measured by the Synthetic Biology Facility 
 
@@ -25,7 +31,7 @@ We provide information about protein structure and function, including all amino
 * 📖 [Some of our previous work and the origin of part of the dataset](https://academic.oup.com/bib/article/24/1/bbac570/6958505)
 
 ## Dataset
-### Introduction to "training.csv" (Training Dataset)
+### "training.csv" (Training Dataset)
 
 This is the training data for the competition, in CSV format, containing a total of 1593 sequences.
 The first column is called "Sequence," corresponding to combinations of different mutation sites. A combination of six letters represents the mutations at six sites, which are the amino acids at positions 74, 101, 143, 148, 173, and 176. These positions have been identified as the most effective mutation sites in our actual tests.
@@ -33,7 +39,7 @@ The last two columns are enzyme function evaluation indicators, including (1) No
 ![image](https://github.com/KRATSZ/CAPE-2023/assets/59955777/a5c58263-7287-43ca-a98f-fb6aa8bdd34f)
 
 
-### Introduction to "test.csv" (Test Dataset)
+### "test.csv" (Test Dataset)
 
 Here are 925 new pieces of data. They contain sequence information but do not include corresponding activity and selectivity. The participant need to predict the activity and selectivity associated with these sequences and obtain feedback to know the overall predictive capability of participant's model.
 
