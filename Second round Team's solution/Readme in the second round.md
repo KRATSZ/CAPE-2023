@@ -10,8 +10,10 @@ The competition encourages undergraduates and graduate students who are passiona
 ### The Round1 
 Round 1 was organized as synbio Challenges, as part of the synbio Challenges competition, players constructed and predicted 96 optimal sequences for mutations to submit. Players were invited to give offline PPT presentations and algorithm explanations, and the team with the best results was finally evaluated.
 
-## The champion
-In this round, team "**m-RNA**" from Nanjing University and team "**Hust_Chem**" from Huazhong University of Science and Technology won the Grand Prize of Protein Design Competition.The champion team"**m-RNA**"code are abled to find in the kaggle:https://www.kaggle.com/code/littlejian/coarse-grained-scan-gan
-![image](https://github.com/KRATSZ/CAPE-2023/assets/59955777/b24a641c-95c8-49f7-a80d-8b181c17d7df)
+### The Round2
+Participants in this round submit their code on kaggle.Integrating Kaggle and biofoundries as open platforms for data and experimentation, the CAPE challenge represents an accessible infrastructure to both protein and data scientist, hoping to promote the wide use of machine learning in protein design and function prediction. 
 
+At the stage of network construction algorithm, "Meinamejiandan" from Beijing University of Chemical Technology used the Euclidean distance between amino acid information and 3D structure as the graph feature, and constructed a **GNN model** by using a three-layer graph isomorphism network (GIN), which won an excellent score on the Kaggle leaderboard.
 
+However, **"AIforbio"** from Shandong University stood out in the testing section!Win the final champion.Utilizing the amino acid information and three-dimensional structure, using Embedding layer and positional encoding layer for sequence encoding and prediction, combined with **Multi Head Attention(MHA)**, and finally accurately predicted the key features in the amino acid sequences as well as the impact on the activity and selectivity by MLP.
+![image](https://github.com/KRATSZ/CAPE-2023/assets/59955777/fbd2b93b-e40a-42dd-9d60-114f46ff7d29)
