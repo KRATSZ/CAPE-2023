@@ -65,3 +65,5 @@ This Data Challenge was built in the open, with the goal of adding lasting artif
 * [Shenzhen Institute of Synthetic Biology large facility](https://www.linkedin.com/in/gabrielspmoreira/), SIAT
 * [Sitong](https://isynbio.siat.ac.cn/sitonglab/), SIAT
 * [Yixiao](http://www.isynbio.org/team-detail.aspx?detail=2610&parm=1671), SIAT
+![image](https://github.com/KRATSZ/CAPE-2023/assets/59955777/9db360ee-2e27-4913-9039-dc71636f266d)
+
