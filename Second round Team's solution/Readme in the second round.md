@@ -1,5 +1,5 @@
 # Introduce
-This folder includes the first round of teams' algorithm presentation presentations (PPT format), which are a good showcase of the teams' algorithmic design ideas and uniqueness. 
+This folder includes the second round of teams' algorithm presentation (.ipynb format), which are a good showcase of the teams' algorithmic design ideas and uniqueness. 
 
 The following is the introduction about the round and the team that won the championship
 ### The synbio challenges
