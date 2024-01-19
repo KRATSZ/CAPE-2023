@@ -1,4 +1,7 @@
 # Introduce
+This folder includes the first round of teams' algorithm presentation presentations (in PPT format), which are a good showcase of the teams' algorithmic design ideas and uniqueness. 
+
+The following is the introduction about the round and the team that won the championship
 ### The synbio challenges
 The 2nd Synthetic Biology Competition-Innovation Competition breaks the routine and innovates the way of competition, which is proposed to be divided into three parallel segments: the routine competition, the big facility competition-bacterial gaming, and the big facility competition-protein design. Participating teams are free to choose to participate in one or more of the above according to their actual situation.
 The competition encourages undergraduates and graduate students who are passionate about synthetic biology to explore the innovation and application of synthetic biology in different fields from the perspective of their interests, and at the same time, it provides a platform for young students to communicate and learn from the top scholars face-to-face and to show their own creativity and creativity!
