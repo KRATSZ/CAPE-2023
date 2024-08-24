@@ -12,3 +12,5 @@ Here are 925 new pieces of data. They contain sequence information but do not in
 
 Prediction and Feedback: To fully understand the performance of the model, participants need to use their algorithms to predict the enzyme activity and selectivity corresponding to the sequences in "test.csv." At the same time, participants can submit their predictions for "test.csv" on Kaggle to receive feedback on their models.
 
+### Introduction to "test-result(with experiment).csv" (Test Dataset)
+Indicates that the sequences submitted by the players are summarized after cleaning and deduplication, and are subjected to experimental verification and testing. The label column indicates activity multiplied by selectivity.
