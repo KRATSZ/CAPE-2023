@@ -3,9 +3,11 @@ WELCOME!Here is official Repository for Critical Assessment of Protein Engineeri
 
 <a href="https://www.kaggle.com/code/mecoywittergreen/siat-baseline"><img src="https://img.shields.io/badge/Kaggle-Notebook-%2355555)"></a> 
 <a href="https://colab.research.google.com/drive/1_1LzDzTNxX-6KVUwoJTi0sMHs4CFJ2NR#scrollTo=x2gWDnaDtsN2"> <img src="https://colab.research.google.com/assets/colab-badge.svg"> </a>
-https://colab.research.google.com/drive/1RFfdVtrPM0PKQHMoiSqlCoXvns6QmgKD#scrollTo=urgvFgkIjKtT
+
+
 *Note*: CAPE was held during October 2023 as a data challenge and workshop. This README and the related links provide an overview of the competition and archive the artifacts from the event to serve the CAPE community. 
-We have partnered with SAPROT to enable undergraduate students to build models and predict sequences using CAPE's dataset with just a few clicks：https://colab.research.google.com/drive/1RFfdVtrPM0PKQHMoiSqlCoXvns6QmgKD#scrollTo=urgvFgkIjKtT
+We have partnered with SAPROT to enable undergraduate students to build models and predict sequences using CAPE's dataset with just a few clicks：
+<a href="https://colab.research.google.com/drive/1RFfdVtrPM0PKQHMoiSqlCoXvns6QmgKD#scrollTo=urgvFgkIjKtT"> <img src="https://colab.research.google.com/assets/colab-badge.svg"> </a>
 *Important*: This README is an archive for the event and the workshop, all the code, data, tests and code are available. 
 
 ## Overview
