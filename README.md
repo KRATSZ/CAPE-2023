@@ -10,6 +10,8 @@ WELCOME!Here is official Repository for Critical Assessment of Protein Engineeri
 
 *Important*: This README is an archive for the event and the workshop, all the code, data, tests and code are available. 
 
+
+If you don't have programme knowledge and want to experience the process of the CAPE competition, from training advanced PLM models to predicting the performance of mutants, you can start with this tutorial: [CAPE easy tutorial-with Saprot model](https://colab.research.google.com/drive/1RFfdVtrPM0PKQHMoiSqlCoXvns6QmgKD#scrollTo=cwbKhyTejsj8) 
 ## Overview
 The goal of this competition is to predict how mutations in specific amino acids affect enzyme function, focusing on RhlA, a key enzyme in producing rhamnolipids—a promising biosurfactant with applications across various industries. Rhamnolipids are hindered by high production and separation costs due to their structural homologues.Enhancing RhlA's selectivity could streamline production and reduce costs. 
 
