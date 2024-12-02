@@ -11,7 +11,7 @@ WELCOME!Here is official Repository for Critical Assessment of Protein Engineeri
 *Important*: This README is an archive for the event and the workshop, all the code, data, tests and code are available. 
 
 
-If you don't have programme knowledge and want to experience the process of the CAPE competition, from training advanced PLM models to predicting the performance of mutants, you can start with this tutorial: [CAPE easy tutorial-with Saprot model](https://colab.research.google.com/drive/1RFfdVtrPM0PKQHMoiSqlCoXvns6QmgKD#scrollTo=cwbKhyTejsj8) 
+If you don't have programme knowledge and want to experience the process of the CAPE competition, from training advanced PLM models to predicting the performance of mutants, you can start with this tutorial: 
 ## Overview
 The goal of this competition is to predict how mutations in specific amino acids affect enzyme function, focusing on RhlA, a key enzyme in producing rhamnolipids—a promising biosurfactant with applications across various industries. Rhamnolipids are hindered by high production and separation costs due to their structural homologues.Enhancing RhlA's selectivity could streamline production and reduce costs. 
 
@@ -20,6 +20,16 @@ The goal of this competition is to predict how mutations in specific amino acids
 </div>
 
 However, Current experimental methods are slow, but **automated synthetic biology** can rapidly test mutations.It can quickly achieve specific functions through low-cost, multi-cycle large-scale engineering trial and error experiments. Based on a robotic platform facility, the automated construction and testing of RhlA's unit point saturation mutations and multi-site combinatorial mutation libraries have been realized.
+### Tutorial：CAPE Easy Tutorial with Saprot Model
+To start tutorial, please click : <a href="https://colab.research.google.com/drive/1RFfdVtrPM0PKQHMoiSqlCoXvns6QmgKD#scrollTo=cwbKhyTejsj8"> <img src="https://colab.research.google.com/assets/colab-badge.svg"> </a>
+
+If you're new to programming or don't know where to start, but are eager to dive into the CAPE competition, this tutorial is perfect for you. We'll guide you through the entire process, from training advanced PLM models(Saprot) to predicting the performance of mutants. Saprot is currently number one general-purpose large model of proteins on proteingym's leadboard, and you can use it to make CAPE predictions with just a few mouse clicks. This step-by-step guide is designed to make the experience accessible and enjoyable, even if you have no prior programming knowledge. 
+
+Let's get started on your journey into the exciting world of CAPE!
+<div align="center">
+    <img src=https://github.com/user-attachments/assets/e4126f7f-1f4b-451a-99d1-2a68640175e1>
+</div>
+
 ### The Round1 
 Round 1 was organized as synbio Challenges, as part of the synbio Challenges competition, players constructed and predicted 96 optimal sequences for mutations to submit. Players were invited to give offline PPT presentations and algorithm explanations, and the team with the best results was finally evaluated.
 
