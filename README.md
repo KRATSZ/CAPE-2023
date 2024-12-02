@@ -18,19 +18,20 @@ However, Current experimental methods are slow, but **automated synthetic biolog
 
 
 ## Tutorial：CAPE Easy Tutorial with Saprot Model
+### start
 To start tutorial, please click : <a href="https://colab.research.google.com/drive/1RFfdVtrPM0PKQHMoiSqlCoXvns6QmgKD#scrollTo=cwbKhyTejsj8"> <img src="https://colab.research.google.com/assets/colab-badge.svg"> </a>
 
-If you're new to programming or unsure where to begin, but eager to participate in the CAPE competition, this tutorial is ideal for you. We'll get together through the entire process, from training advanced PLM models like Saprot to predicting the performance of mutants.
+If you're new to programming or unsure where to begin, but eager to participate in the CAPE competition, this tutorial is ideal for you. We'll guide you through the entire process, from training advanced PLM models like Saprot to predicting the performance of mutants.
 
-[**Saprot**](https://github.com/westlake-repl/SaProt) is currently the top-ranked general-purpose large protein model on Proteingym's leaderboard. Combined with Colab, it allows you to make CAPE predictions with just a few clicks. 
-This tutorial also functions as part of a 5-week undergraduate lab course for first-year students. Even **without coding experience**, students can quickly engage in protein design and create GFP variants with enhanced brightness. 
-
+[**Saprot**](https://github.com/westlake-repl/SaProt) is currently the top-ranked general-purpose large protein model on Proteingym's leaderboard. Combined with Colab, it allows you to make CAPE predictions with just a few clicks. This tutorial also functions as part of a 5-week undergraduate lab course for first-year students. Even without coding experience, students can quickly engage in protein design and create GFP variants with enhanced brightness.
 Let's get started on your journey into the exciting world of CAPE!
 <div align="center">
     <img src=https://github.com/user-attachments/assets/e4126f7f-1f4b-451a-99d1-2a68640175e1>
 </div>
 
-
+### Undergraduate Courses
+This tutorial is also integrated into a 5-week undergraduate lab course for first-year students. It provides a hands-on experience in protein design, enabling students to create GFP variants with enhanced brightness even if they have no prior coding experience.
+### Community Resources
 [[**SaprotHub**]](https://huggingface.co/SaProtHub):From Yuan Lab, is a collaborative community, aiming to empowers biologists by enabling them to create and train their own models without the need for advanced ML and coding expertise.
 
 [[**OPMC**]](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v2.full.pdf):The Open Protein Modeling Consortium (OPMC) is an initiative designed to unify resources and efforts within the protein research community. It promotes the sharing of individually trained models, facilitating the direct use of existing models and fostering continuous improvement through collaboration.
