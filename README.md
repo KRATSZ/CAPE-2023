@@ -31,6 +31,10 @@ Let's get started on your journey into the exciting world of CAPE!
 
 ### Undergraduate Courses
 This tutorial is also integrated into a [5-week undergraduate lab course](https://github.com/KRATSZ/CAPE-2023/tree/main/Student%20course) for first-year students. It provides a hands-on experience in protein design, enabling students to create GFP variants with enhanced brightness even if they have no prior coding experience.
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/8d174159-f9cd-414e-8642-c78db04c2a3f" alt="Image" width="600"/>
+</div>
+
 ### Community Resources
 [[**SaprotHub**]](https://huggingface.co/SaProtHub):From Yuan Lab, is a collaborative community, aiming to empowers biologists by enabling them to create and train their own models without the need for advanced ML and coding expertise.
 
